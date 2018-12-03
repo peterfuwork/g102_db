@@ -1,12 +1,12 @@
-#g102-db
+# g102-db
 
-##Title
+## Title
 g102-db
 
-##Tech used
+## Tech used
 Node.js, Express.js, Postgresql, knex.js
 
-##How to install and run
+## How to install and run
 git clone https://github.com/peterfuwork/g102_db.git
 npm install
 npm run dev
